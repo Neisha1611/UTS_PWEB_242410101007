@@ -2,10 +2,10 @@ Velora adalah website berbasis Laravel yang digunakan untuk mengelola koleksi fa
 
 Website ini menyediakan beberapa fitur utama seperti:
 
-Login pengguna dengan validasi input
-Dashboard untuk menampilkan ringkasan data
-Halaman profil pengguna
-Halaman pengelolaan koleksi produk fashion
+- Login pengguna dengan validasi input
+- Dashboard untuk menampilkan ringkasan data
+- Halaman profil pengguna
+- Halaman pengelolaan koleksi produk fashion
 
 Velora dibuat menggunakan Laravel, Blade Template, HTML, dan CSS dengan tujuan membantu pengguna dalam mengatur data produk seperti nama, kategori, harga, dan stok.
 

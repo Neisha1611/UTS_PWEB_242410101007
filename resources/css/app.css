@@ -9,7 +9,6 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif;
 }
 
-/* RESET kecil biar aman */
 * {
     box-sizing: border-box;
 }
